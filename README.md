@@ -8,7 +8,9 @@ command:npm i node-modules dotenv
 
 #create .env file and give MONGO_URI and PORT in it
 
+//Add dev script in package.json
+
 #command to run the server:
-npm run dev //Add dev script in package.json
+npm run dev 
 
 
